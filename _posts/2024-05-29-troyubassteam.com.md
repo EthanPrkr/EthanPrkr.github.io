@@ -16,4 +16,4 @@ This is one I developed back in my freshman year of college. I obviously didn't 
 
 *I do not maintain or manage this website anymore.*
 
-[troyubassteam.com](http://troyubassteam.com)
+[troyubassteam.com](http://troyubassteam.com)[newtab]
