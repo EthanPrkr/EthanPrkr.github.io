@@ -28,8 +28,8 @@ url: "https://EthanPrkr.github.io"
 github:
   username: EthanPrkr # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -100,7 +100,7 @@ avatar: "assets/img/headshot_circle.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: "assets/img/headshot_circle.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
