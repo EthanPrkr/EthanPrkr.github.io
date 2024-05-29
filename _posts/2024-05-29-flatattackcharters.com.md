@@ -14,4 +14,4 @@ Website for an inshore charter fishing compnay based out of Niceville, FL. Offer
 
 This is the first true website that I have made, back in highschool.
 
-[flatattackcharters.com](http://www.flatattackcharters.com)
+<a href="https://www.flatattackcharters.com" target="_blank">flatattackcharters.com</a>
