@@ -1,6 +1,6 @@
 ---
 title: troyubassteam.com
-date: 2024-05-29 15:29:00 -0500
+date: 2024-05-29 15:58:00 -0500
 categories: [projects]
 tags: [web-development]     # TAG names should always be lowercase
 toc: false
@@ -16,4 +16,4 @@ This is one I developed back in my freshman year of college. I obviously didn't 
 
 *I do not maintain or manage this website anymore.*
 
-[troyubassteam.com](http://troyubassteam.com)[newtab]
+[troyubassteam.com](http://troyubassteam.com)
