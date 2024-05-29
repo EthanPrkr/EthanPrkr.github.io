@@ -16,4 +16,4 @@ This is one I developed back in my freshman year of college. I obviously didn't 
 
 *I do not maintain or manage this website anymore.*
 
-<a href="http://troyubassteam.com" target="_blank">troyubassteam.com</a>
+<a href="https://troyubassteam.com" target="_blank">troyubassteam.com</a>
