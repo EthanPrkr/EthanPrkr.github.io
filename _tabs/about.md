@@ -11,7 +11,7 @@ Outside of professional activities I enjoy running, old video games (particularl
 I'm looking to develop my cybersecurity, ethical hacking, and software development skills. This site serves as a medium to share what I've learned and motivate me to keep digging. I hope the information stored on this blog helps.
 
 # Education
-- Bachelors, Cybersecurity | Troy University (May 2024)
+Bachelors, Cybersecurity | Troy University (May 2024)
 
 # Professional Experience
 ***Software Support Technician @ Crosspoint Church (Feb 2022 - Present)***
