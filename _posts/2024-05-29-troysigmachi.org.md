@@ -3,7 +3,6 @@ title: troysigmachi.org
 date: 2024-05-29 13:28:00 -0500
 categories: [projects]
 tags: [web-development]     # TAG names should always be lowercase
-description: Website for my fraternity chapter at Troy University to share information about...
 toc: false
 comments: false
 image:
